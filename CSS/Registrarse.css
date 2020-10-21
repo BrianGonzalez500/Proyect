@@ -1,0 +1,54 @@
+﻿body {
+}
+h1
+{
+    text-align: center;
+    color: royalblue;
+}
+h3 {
+    text-align: center;
+    color: royalblue;
+}
+.Student img
+{
+   
+    height: 100px;
+   
+   
+}
+.Teacher 
+{
+    height: 150px;
+}
+.T {
+    width: 320px;
+    height: 420px;
+    top: 40%;
+    left: 40%;
+    position: absolute;
+}
+    .T input {
+        width: 30%;
+        height: 30px;
+
+    }
+        .T input[type="submit"]
+        {
+            height: 30px;
+            background: #0026ff;
+            color: aliceblue;
+            font-size: 20px;
+            border-radius: 10px;
+        }
+.S {
+    width: 320px;
+    height: 420px;
+    top: 40%;
+    left: 80%;
+    position: absolute;
+}
+    .S input
+    {
+        width: 30%;
+        height: 30px;
+    }

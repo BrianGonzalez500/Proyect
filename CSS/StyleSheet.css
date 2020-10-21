@@ -1,0 +1,61 @@
+﻿body {
+
+}
+
+h1{
+
+    text-align:center;
+}
+.form-control
+{
+
+}
+.Login
+{
+    width: 320px;
+    height: 420px;
+    /*background-color: burlywood;*/
+    color: black;
+    top: 40%;
+    left: 40%;
+    position: absolute;
+    
+
+}
+    .Login h2 {
+        margin: 0;
+        padding: 0 0 20px;
+        text-align: center;
+        font-size: 30px;
+    }
+    .Login label
+    {
+        margin:0;
+        padding:0;
+        font-weight: bold;
+        display:block;
+
+    }
+    .Login input
+    {
+        width: 100%;
+        height: 30px;
+        margin-bottom: 10px;
+    }
+
+        .Login input[type="submit"] {
+          
+            height: 30px;
+            background: #0026ff;
+            color: aliceblue;
+            font-size: 20px;
+            border-radius: 10px;
+        }
+    .Login a {
+        text-decoration: none;
+        font-size: 20px;
+        line-height: 20px;
+        color: royalblue;
+        padding: 0 120px 30px;
+      
+    }
